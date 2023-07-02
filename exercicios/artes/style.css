@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Marck+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sansita:ital@1&display=swap');
+body{
+    background-image: linear-gradient(30deg, #e99f94c4,#f8a3a6b9);
+}
+
+h1{
+
+    font-family: 'Sansita', sans-serif,cursive;
+    font-size: 3em;
+        text-align: center;
+        color: #9f70b3c5;
+        text-shadow: 3px, black;
+        text-decoration: underline;
+}
+p{
+    margin: 40px;
+    
+
+    color: #9e7189;
+}
